@@ -1,0 +1,68 @@
+2024-02-16T04:31:27.829Z - normal: Load ~/.CocosCreator/settings.json
+2024-02-16T04:31:27.866Z - normal: Initializing Asset Database
+2024-02-16T04:31:27.868Z - normal: checking language setting...
+2024-02-16T04:31:27.868Z - normal: Language: en
+2024-02-16T04:31:28.283Z - success: preview server running at http://localhost:7456
+2024-02-16T04:31:28.297Z - success: protocol editor-framework registered
+2024-02-16T04:31:28.297Z - success: protocol app registered
+2024-02-16T04:31:28.297Z - success: protocol theme registered
+2024-02-16T04:31:28.297Z - success: protocol packages registered
+2024-02-16T04:31:28.297Z - success: protocol uuid registerred
+2024-02-16T04:31:28.297Z - success: protocol db registerred
+2024-02-16T04:31:28.297Z - success: protocol thumbnail registerred
+2024-02-16T04:31:28.297Z - success: protocol unpack registerred
+2024-02-16T04:31:28.297Z - success: protocol disable-commonjs registerred
+2024-02-16T04:31:29.976Z - normal: connected!
+2024-02-16T04:31:29.977Z - normal: Check project /Users/enotion/Desktop/Project/SoundTool
+2024-02-16T04:31:29.979Z - normal: Initializing project /Users/enotion/Desktop/Project/SoundTool
+2024-02-16T04:31:30.211Z - normal: Initializing Cocos2d
+2024-02-16T04:31:30.612Z - normal: Initializing engine extends
+2024-02-16T04:31:30.644Z - success: alipay-adapter loaded
+2024-02-16T04:31:30.656Z - success: asset-db-debugger loaded
+2024-02-16T04:31:30.661Z - success: baidu-adapter loaded
+2024-02-16T04:31:30.664Z - success: color-picker loaded
+2024-02-16T04:31:30.753Z - success: fb-audience-network loaded
+2024-02-16T04:31:30.794Z - success: fb-live-stream loaded
+2024-02-16T04:31:30.796Z - success: google-play-instant loaded
+2024-02-16T04:31:30.799Z - success: huawei-runtime loaded
+2024-02-16T04:31:30.935Z - success: cpk-publish loaded
+2024-02-16T04:31:30.936Z - success: jsb-adapter loaded
+2024-02-16T04:31:30.939Z - success: oppo-runtime loaded
+2024-02-16T04:31:30.942Z - success: package-manager loaded
+2024-02-16T04:31:31.012Z - success: qqplay-adapter loaded
+2024-02-16T04:31:31.013Z - success: runtime-dev-tools loaded
+2024-02-16T04:31:31.016Z - success: sdkbox loaded
+2024-02-16T04:31:31.019Z - success: tester loaded
+2024-02-16T04:31:31.021Z - success: ui-kit-preview-extra loaded
+2024-02-16T04:31:31.023Z - success: ui-kit-preview loaded
+2024-02-16T04:31:31.025Z - success: ui-kit loaded
+2024-02-16T04:31:31.028Z - success: vivo-runtime loaded
+2024-02-16T04:31:31.028Z - success: weapp-adapter loaded
+2024-02-16T04:31:31.029Z - success: xiaomi-adapter loaded
+2024-02-16T04:31:31.030Z - success: alipay-minigame loaded
+2024-02-16T04:31:31.057Z - success: assets loaded
+2024-02-16T04:31:31.060Z - success: builder loaded
+2024-02-16T04:31:31.217Z - success: cocos-services loaded
+2024-02-16T04:31:31.222Z - success: console loaded
+2024-02-16T04:31:31.246Z - success: fb-instant-games loaded
+2024-02-16T04:31:31.248Z - success: game-window loaded
+2024-02-16T04:31:31.249Z - success: google-instant-games loaded
+2024-02-16T04:31:31.253Z - success: hierarchy loaded
+2024-02-16T04:31:31.256Z - success: inspector loaded
+2024-02-16T04:31:31.256Z - success: keystore loaded
+2024-02-16T04:31:31.260Z - success: node-library loaded
+2024-02-16T04:31:31.261Z - success: package-asset loaded
+2024-02-16T04:31:31.262Z - success: preferences loaded
+2024-02-16T04:31:31.264Z - success: project-exporter loaded
+2024-02-16T04:31:31.267Z - success: project-importer loaded
+2024-02-16T04:31:31.270Z - success: project-settings loaded
+2024-02-16T04:31:31.273Z - success: scene loaded
+2024-02-16T04:31:31.275Z - success: simulator-debugger loaded
+2024-02-16T04:31:31.275Z - success: sprite-editor loaded
+2024-02-16T04:31:31.279Z - success: store loaded
+2024-02-16T04:31:31.286Z - success: timeline loaded
+2024-02-16T04:31:31.288Z - success: xiaomi-runtime loaded
+2024-02-16T04:31:31.980Z - normal: Loading packages
+2024-02-16T04:31:31.983Z - normal: Watching packages
+2024-02-16T04:31:32.059Z - normal: Run Application
+2024-02-16T04:32:00.830Z - info: Cocos Services load base data!
